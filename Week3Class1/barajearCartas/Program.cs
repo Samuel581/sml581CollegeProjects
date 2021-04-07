@@ -7,9 +7,10 @@ namespace barajearCartas
         static void Main(string[] args)
         {
             Monedero miBolsillo = new Monedero();
+            Moneda dolar = new Moneda();
 	    
-            miBolsillo.añadirMoneda(1, "dólar");
-            miBolsillo.añadirMoneda(1, "dólar");
+            miBolsillo.añadirMoneda(dolar);
+            miBolsillo.añadirMoneda(dolar);
             miBolsillo.añadirMoneda(0.25, "cora");
             miBolsillo.añadirMoneda(0.25, "cora");
             

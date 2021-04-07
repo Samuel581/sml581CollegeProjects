@@ -8,7 +8,11 @@ namespace barajearCartas
         public Monedero(){
             listaMonedas = new List<Moneda>();
         }
-
+         // Método sobrecargado
+        public void añadirMoneda(Moneda unaMoneda){
+            listaMonedas.Add(unaMoneda);
+        }
+        // Método sobrecargado
         public void añadirMoneda(double pValor, string pNombre){
             Moneda unaMoneda = new Moneda(pValor, pNombre);
             
