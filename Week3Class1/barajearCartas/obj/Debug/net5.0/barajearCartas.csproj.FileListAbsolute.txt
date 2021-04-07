@@ -1,0 +1,16 @@
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\barajearCartas.csprojAssemblyReference.cache
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\barajearCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\barajearCartas.AssemblyInfoInputs.cache
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\barajearCartas.AssemblyInfo.cs
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\barajearCartas.csproj.CoreCompileInputs.cache
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\bin\Debug\net5.0\barajearCartas.exe
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\bin\Debug\net5.0\barajearCartas.deps.json
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\bin\Debug\net5.0\barajearCartas.runtimeconfig.json
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\bin\Debug\net5.0\barajearCartas.runtimeconfig.dev.json
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\bin\Debug\net5.0\barajearCartas.dll
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\bin\Debug\net5.0\ref\barajearCartas.dll
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\bin\Debug\net5.0\barajearCartas.pdb
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\barajearCartas.dll
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\ref\barajearCartas.dll
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\barajearCartas.pdb
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\barajearCartas\obj\Debug\net5.0\barajearCartas.genruntimeconfig.cache
