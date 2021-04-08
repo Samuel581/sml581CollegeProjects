@@ -1,0 +1,18 @@
+La palabra reservada < virtual > nos permite la posibilidad que un metodo sea sobreescrito en una subclase.
+Por defecto, los metodos no son virtuales y hay que especificarlo.
+Para sobreescribir se utiliza < override >.
+
+Programa de ejemplo:
+
+public class Persona
+{
+	public virtual string Nombre {get; set;}
+}
+
+public Cliente : Persona
+{
+	public overrride string Nombre{
+		get {base.Nombre.ToUpper();}
+		set {base.Nombre = value;}
+	}
+}
