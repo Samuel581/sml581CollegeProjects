@@ -1,0 +1,4 @@
+With a static method or action we dont need an object to call it, we only call it with the class and its a part
+of the class
+
+Extended info here: https://www.youtube.com/watch?v=-TxHjyC8WY4

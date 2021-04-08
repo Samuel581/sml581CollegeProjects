@@ -1,0 +1,16 @@
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\bin\Debug\net5.0\gestorArchivos.exe
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\bin\Debug\net5.0\gestorArchivos.deps.json
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\bin\Debug\net5.0\gestorArchivos.runtimeconfig.json
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\bin\Debug\net5.0\gestorArchivos.runtimeconfig.dev.json
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\bin\Debug\net5.0\gestorArchivos.dll
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\bin\Debug\net5.0\ref\gestorArchivos.dll
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\bin\Debug\net5.0\gestorArchivos.pdb
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\gestorArchivos.csprojAssemblyReference.cache
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\gestorArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\gestorArchivos.AssemblyInfoInputs.cache
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\gestorArchivos.AssemblyInfo.cs
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\gestorArchivos.csproj.CoreCompileInputs.cache
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\gestorArchivos.dll
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\ref\gestorArchivos.dll
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\gestorArchivos.pdb
+C:\Users\samuel\sml581CollegeProjects\Week3Class1\static\gestorArchivos\obj\Debug\net5.0\gestorArchivos.genruntimeconfig.cache
