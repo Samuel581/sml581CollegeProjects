@@ -3,6 +3,10 @@ namespace Cuentas
 {
     public class CuentaChequera : CuentaBancaria {
         private int contadorTransacciones;
+        //Constructor custom
+        public CuentaChequera(double balanceInicial) : base(balanceInicial) {
+        contadorTransacciones = 0;
+    }
         public override void depositar(double cantidad) {
             contadorTransacciones++;
             base.depositar(cantidad);

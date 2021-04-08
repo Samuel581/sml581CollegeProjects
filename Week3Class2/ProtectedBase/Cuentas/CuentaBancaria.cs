@@ -4,6 +4,10 @@ namespace Cuentas
     public class CuentaBancaria
     {
         protected double balance;
+
+        public CuentaBancaria(double balanceInicial) {
+        balance = balanceInicial;
+    }
         
         public double getBalance(){
             return balance;
